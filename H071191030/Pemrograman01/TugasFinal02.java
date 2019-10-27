@@ -76,7 +76,7 @@ public class TugasFinal02 {
                 System.out.println();
             }
         } else {
-            System.out.println("Perkaliam matriks B*A tidak bisa dilakukan karena kolom B tidak sama dengan baris A");
+            System.out.println("Perkalian matriks B*A tidak bisa dilakukan karena kolom B tidak sama dengan baris A");
         }
 
         ka.close();
